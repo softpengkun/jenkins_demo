@@ -14,6 +14,6 @@ public class TestController {
 
     @GetMapping("/test")
     public String test(){
-        return "这是一个测试jenkins自动部署的测试demo222";
+        return "这是一个测试jenkins自动部署的测试demo33333";
     }
 }
