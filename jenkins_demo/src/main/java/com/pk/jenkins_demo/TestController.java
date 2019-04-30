@@ -15,6 +15,6 @@ public class TestController {
     @GetMapping("/test")
     public String test(){
         System.out.println("合并");
-        return "这是一个测试jenkins自动部署的测试demo8888";
+        return "这是一个测试jenkins自动部署的测试demo999";
     }
 }
